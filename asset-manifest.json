@@ -1,7 +1,7 @@
 {
   "main.css": "/thisforthat/static/css/main.e951c32a.chunk.css",
-  "main.js": "/thisforthat/static/js/main.59526a57.chunk.js",
-  "main.js.map": "/thisforthat/static/js/main.59526a57.chunk.js.map",
+  "main.js": "/thisforthat/static/js/main.06b40dd6.chunk.js",
+  "main.js.map": "/thisforthat/static/js/main.06b40dd6.chunk.js.map",
   "static/css/1.32da38a4.chunk.css": "/thisforthat/static/css/1.32da38a4.chunk.css",
   "static/js/1.7e95a635.chunk.js": "/thisforthat/static/js/1.7e95a635.chunk.js",
   "static/js/1.7e95a635.chunk.js.map": "/thisforthat/static/js/1.7e95a635.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.32da38a4.chunk.css.map": "/thisforthat/static/css/1.32da38a4.chunk.css.map",
   "static/css/main.e951c32a.chunk.css.map": "/thisforthat/static/css/main.e951c32a.chunk.css.map",
   "index.html": "/thisforthat/index.html",
-  "precache-manifest.ebc792a9dcf4385bb5b58db1e8d19310.js": "/thisforthat/precache-manifest.ebc792a9dcf4385bb5b58db1e8d19310.js",
+  "precache-manifest.b31345d76bdd935d94127254b0183f18.js": "/thisforthat/precache-manifest.b31345d76bdd935d94127254b0183f18.js",
   "service-worker.js": "/thisforthat/service-worker.js"
 }
