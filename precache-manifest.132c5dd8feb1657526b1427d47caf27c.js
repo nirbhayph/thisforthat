@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/thisforthat/static/js/runtime~main.5bdb5531.js"
   },
   {
-    "revision": "235142345253596ed1e0",
-    "url": "/thisforthat/static/js/main.23514234.chunk.js"
+    "revision": "50412d8d894d16deeb20",
+    "url": "/thisforthat/static/js/main.50412d8d.chunk.js"
   },
   {
     "revision": "7e95a635c31348d78bc7",
     "url": "/thisforthat/static/js/1.7e95a635.chunk.js"
   },
   {
-    "revision": "235142345253596ed1e0",
+    "revision": "50412d8d894d16deeb20",
     "url": "/thisforthat/static/css/main.e951c32a.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/thisforthat/static/css/1.32da38a4.chunk.css"
   },
   {
-    "revision": "a7f87922891cf894d38a5fc09f3b443b",
+    "revision": "1df84a65c528d524bd7ca57d81bc6868",
     "url": "/thisforthat/index.html"
   }
 ];
