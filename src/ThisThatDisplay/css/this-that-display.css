@@ -1,0 +1,55 @@
+/*styling for the this+that text combination and rotating box*/
+
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+
+@keyframes tipsy {
+  0 {
+    transform: translateX(-50%) translateY(-50%) rotate(0deg);
+  }
+  100% {
+    transform: translateX(-50%) translateY(-50%) rotate(360deg);
+  }
+}
+
+.box-this-that {
+  text-align: center;
+  font-family: 'Allerta Stencil', sans-serif;
+  color: #fffbf1;
+  text-shadow: 0 20px 25px #2e2e31, 0 40px 60px #00000000;
+  font-size: 45px;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: -3px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  max-width: 300px;
+  line-height: 1.6;
+
+}
+
+.box-this-that:before,
+.box-this-that:after {
+  content: '';
+  padding: .9em .4em;
+  position: absolute;
+  left: 50%;
+  width: 100%;
+  top: 50%;
+  display: block;
+  border: 15px solid red;
+  transform: translateX(-50%) translateY(-50%) rotate(0deg);
+  animation: 10s infinite alternate ease-in-out tipsy;
+}
+
+.box-this-that:before {
+  border-color: #322850 #322850 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+  z-index: -1;
+}
+
+.box-this-that:after {
+  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #322850 #322850;
+  box-shadow: 25px 25px 25px #00000000;
+}

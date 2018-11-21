@@ -1,0 +1,13 @@
+
+/* setting up display for particle effect*/
+
+.particles-display{
+  position: absolute;
+  top:0;
+  left:0;
+  min-height:100%;
+  min-width:100%;
+  width:100%;
+  height: 100vh;
+  z-index: -1;
+}

@@ -1,0 +1,20 @@
+/* refresh button styling*/
+
+.button-refresh{
+  background-color: #22252A;
+  border-radius: 10px;
+  border: none;
+  text-decoration: none;
+  outline:none;
+  cursor:pointer;
+  position: fixed;
+  right:20px;
+  top:38%;
+  height: 80px;
+}
+
+/* refresh button on mouse over effect */
+.button-refresh:hover{
+  cursor:hand;
+  background-color: #261447;
+}

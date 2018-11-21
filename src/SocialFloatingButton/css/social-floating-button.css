@@ -1,0 +1,8 @@
+/*setting cursor for floating button on the right bottom corner*/
+.floating-button *{
+  outline: none !important;
+  cursor:pointer;
+}
+.floating-button :hover{
+  cursor: hand;
+}

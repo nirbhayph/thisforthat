@@ -1,0 +1,19 @@
+/*subtext styling*/
+
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+
+.text {
+	font-family: "Allerta Stencil", sans-serif;
+	letter-spacing: 1px;
+}
+
+.sub-data {
+	background-image: url('https://media.giphy.com/media/3ohhwEZqxzKbNUHzji/giphy.gif');
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 45px;
+	margin-top: 1em;
+	line-height: 1.0;
+}
