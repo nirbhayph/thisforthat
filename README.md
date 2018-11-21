@@ -8,6 +8,8 @@ API Links: http://littup.cc/thisforthat/api/all_api_links.html
 
 This website is a clone to http://itsthisforthat.com.
 
+![TFTClone GIF](https://gfycat.com/UnluckyAngryEquine)
+
 ## If you're using Ubuntu on your local machine, and you want to install the prerequisites at first and then add the source, follow the following steps:
 
 Instructions to setup the react application
