@@ -6,9 +6,9 @@ Hosted through GitHub pages - Refer the link: https://github.com/gitname/react-g
 
 API Links: http://littup.cc/thisforthat/api/all_api_links.html
 
-This website is a clone to http://itsthisforthat.com.
+This website is a clone to http://itsthisforthat.com
 
-![TFTClone GIF](https://gfycat.com/UnluckyAngryEquine)
+![](https://thumbs.gfycat.com/UnluckyAngryEquine-size_restricted.gif)
 
 ## If you're using Ubuntu on your local machine, and you want to install the prerequisites at first and then add the source, follow the following steps:
 
