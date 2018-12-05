@@ -105,6 +105,10 @@ Placing and verifying setup for the API files
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
+## Developers:
+- @nirbhayph - https://github.com/nirbhayph | https://linkedin.com/in/nirbhaypherwani
+- @dhirensc - https://github.com/dhirensc | https://linkedin.com/in/dhirenchandnani
+
 ## Acknowledgements and Mentions:
 > React libraries usages in the application: [Third Party Resources](https://github.com/nirbhayph/thisforthat/blob/master/Third%20Party%20Resources.pdf)
 
