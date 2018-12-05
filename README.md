@@ -6,7 +6,9 @@ Hosted through GitHub pages - Refer the link: https://github.com/gitname/react-g
 
 API Links: http://littup.cc/thisforthat/api/all_api_links.html
 
-This website is a clone to http://itsthisforthat.com.
+This website is a clone to http://itsthisforthat.com
+
+![](https://thumbs.gfycat.com/UnluckyAngryEquine-size_restricted.gif)
 
 ## If you're using Ubuntu on your local machine, and you want to install the prerequisites at first and then add the source, follow the following steps:
 
@@ -104,13 +106,13 @@ Placing and verifying setup for the API files
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgements and Mentions:
-> React libraries usages in the application: http://littup.cc/applicationfiles/Third%20Party%20Resources.pdf
+> React libraries usages in the application: [Third Party Resources](https://github.com/nirbhayph/thisforthat/blob/master/Third%20Party%20Resources.pdf)
 
 - @Wufe - https://github.com/Wufe/react-particles-js
 - Ebram Marzouk - https://codepen.io/P3R0/pen/zxabvb?editors=0100
 - @axios - https://github.com/axios/
 - @logtrace - https://github.com/logtrace/material-icons-react
-- Unsplash API https://source.unsplash.com/random
+- Unsplash API - https://source.unsplash.com/random
 - @negomi - https://github.com/negomi/react-burger-menu
 - @nerp-tech - https://github.com/nerp-tech/react-fab
 - @saurabhnemade https://github.com/saurabhnemade/react-twitter-embed
@@ -120,3 +122,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - @ratson - https://github.com/ratson/react-typist-loop
 - Google Fonts - https://fonts.googleapis.com
 - Google Icons - https://material.io/tools/icons/
+- @ericpkerr - https://github.com/ericpkerr
+- Ben Gilbert - https://linkedin.com/in/benjamingilbert
