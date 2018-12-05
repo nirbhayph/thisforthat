@@ -39,7 +39,7 @@ class SocialFloatingButton extends Component {
             <FabAction
               className="button button-balanced"
               onClick={this.handleCreateMemo}
-              tooltip=<TwitterFollow followName="gilbert" />
+              tooltip=<TwitterFollow followName="nirbhayph" />
             >
               <MaterialIcon icon="person_add" size={13} />
             </FabAction>
@@ -48,7 +48,7 @@ class SocialFloatingButton extends Component {
             <FabAction
               className="button button-balanced"
               onClick={this.handleCreateMemo}
-              tooltip=<TwitterFollow followName="nirbhayph" />
+              tooltip=<TwitterFollow followName="dhirenc65" />
             >
               <MaterialIcon icon="person_add" size={13} />
             </FabAction>
